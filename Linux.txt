@@ -1,0 +1,30 @@
+- ls, ls -l , ls -A == to see the list of files
+- touch == to create empty file
+- rm -f / rm -r == to remove directory
+- cp / cp -r == copy directory
+- mv old-file new-file == rename
+- pwd == current directory
+- cd  == switch from one location to another location
+- mkdir == to create directory
+- cat == to view the content
+- head == **the head command will output the first part of the file**
+- tail ==  **the tail command will print the last part of the file**
+- grep == Grep is a Linux utility used to find lines of text in files
+- awk == Awk is **mostly used for pattern scanning and processing**
+- vim , vim file —> INSERT —> CHANGES —> ESC —> :wq (q!)
+- find   == finding files
+- curl / curl -O / curl -o == we can download files or browse
+- tar -xf == **used to compress a group of files into an archive**
+- unzip == to unzip files
+- pipes (com1 | com2) ==  **used to combine two or more commands**
+- ps -ef == list of process which are running
+- kill / -9 == to kill the particular process
+- useradd / passwd == to set the password
+- su - john / su - root / su - == switch from one user to another
+- sudo == **it will run that command with elevated privileges**
+- yum == to install package
+- systemctl == **manages both system and service configurations, enabling administrators to manage the OS and control the status of services**
+- chmod == **To change directory permissions**
+- chgrp == **alters the group name that a file or directory belongs to**
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b1ce52b7-cc06-4c4a-a85e-e4b6b4166907/Untitled.png)

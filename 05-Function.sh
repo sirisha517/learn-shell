@@ -6,6 +6,7 @@ xyz() {
   echo Second Argument -- $2
   echo All Argument - $*
   echo No of Argument - $#
+  a=300
   echo value of a = $a
   b=200
 
@@ -14,4 +15,4 @@ xyz() {
 ## call a Function
 a=120
 xyz 123 456
-echo value of b is $b
+echo value of b = $b

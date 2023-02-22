@@ -14,6 +14,6 @@ echo Hello World
 # Blue                  34
 # Magenta            35
 # Cyan                 36
-echo -e “\e[31mHello World in red colour”
+echo -e “\e[31mHello World in red colour\e[0”
 echo Hello World
-echo -e “\e[31mSirisha Kallempudi in red colour”
+echo -e “\e[35mSirisha Kallempudi in red colour\e[0”

@@ -6,3 +6,7 @@ echo "Hello GOOD MORNING ,Today DATE IS ${DATE}"
 # Using Arithematic Subtitution
 ADD=$((2+3))
 echo "Addition of 2 + 3 = ${ADD}"
+
+
+# Acessing variable from Shell
+echo x = $x

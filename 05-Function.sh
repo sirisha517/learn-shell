@@ -8,11 +8,12 @@ xyz() {
   echo No of Argument - $#
   a=300
   echo value of a = $a
-  b=200
+  b=300
 
 }
 ## Main program
 ## call a Function
 a=120
 xyz 123 456
+b=400
 echo value of b = $b

@@ -7,4 +7,6 @@ fi
 
 if [ "$(string)" == abc ]; then
 echo string is sirisha
+else
+  echo string is not sirisha
 fi

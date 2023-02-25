@@ -18,3 +18,17 @@ AWS)
 *) echo No Course Available
   ;;
 esac
+
+## same above in if condition
+if [ "${name}" == "DevOPS" ]; then
+  echo welcome to Devops Training
+    echo Timigs are 6AM
+
+elif [ "${name}" == "AWS" ]; then
+  echo Welcome to AWS Trainig
+    echo Timigs are 7AM
+
+else
+  echo No Course Available
+fi
+    

@@ -19,3 +19,12 @@ a=120
 xyz 123 456
 b=400
 echo value of b = $b
+
+abc(){
+  echo Hello
+  return 109
+  echo Bye
+}
+
+abc
+echo Exit Status of abc function = $?

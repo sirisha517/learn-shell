@@ -17,3 +17,8 @@ echo Hello World
 print_head "\e[31mHello World in red colour"
 echo Hello World
 print_head "Sirisha Kallempudi in red colour"
+
+
+#print multiple lines
+echo -e "line1\nline2\nline3"
+#echo \e for colour ,same \n for new line 

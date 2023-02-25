@@ -3,7 +3,11 @@ echo Hello World
 
 ## colour syntax
 
-# echo -e  “\e[COLm MESSAGE  ”
+# echo -e sirisha517
+# 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
+# sirisha517
+# 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
+# “\e[COLm MESSAGE  ”
 # -e —> enable colour from the echo command
 # \e[COLm  —> Enable a particular colour
 #   —> zero code is reset the colour, meaning if we enable colour we should disable it

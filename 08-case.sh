@@ -4,6 +4,7 @@
 # *) command ;;
 # esac
 
+
 read -p ' Enter course Name: ' name
 
 case $name in
